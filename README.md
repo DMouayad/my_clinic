@@ -3,14 +3,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h1 align="center">MyClinic</h1>
-
+  <img src="./Banner.PNG" alt="Banner">
   <p align="center">
-   <b> An improved way to manage your DENTAL CLINIC!</b>
+   <h4> An improved way to manage <i>A Dental Clinic</i> operations!</h4>
     <br /> <br />
     View Demo <i>(Soon)</i>
   </p>
@@ -32,7 +27,6 @@
       </ul>
     </li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#to-do">To-Do</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -43,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Screenshots][product-screenshot]](https://example.com)
 
 A system designed to help dental clinics manage their day-to-day operations more efficiently and effectively.
 <br/>
@@ -68,17 +62,9 @@ Our main focus is to provide a user-friendly system that benefits both solo prac
 
 For Instaliation Instructions and Prerequisites, please refer to:
 * [Flutter App Repository](https://github.com/DMouayad/my_clinic_flutter-demo)
-* [Backend App (Laravel) Repository](https://github.com/DMouayad/my_clinic_laravel)
-* [NodeJs App (Express) Repository](https://github.com/DMouayad/my_clinic_expressJs)
+* [Laravel App Repository](https://github.com/DMouayad/my_clinic_laravel)
+* [NodeJs App Repository](https://github.com/DMouayad/my_clinic_expressJs)
 
-
-<!-- To-Do -->
-## To-Do
-
-- [ ] Add app Logo.
-- [ ] Add app screenshots (on Windows, Mobile, Tablet, etc).
-- [ ] Add a video for Demo
-- [ ] Add C4 Model Diagrams
 
 
 <!-- CONTACT -->
